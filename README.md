@@ -3,3 +3,4 @@
 1. Reverse String-Google
 2. Valid Palindrom-Facebook
 3. Vacuum Cleaner Route-Amazon	
+4. CorrectCapitalization-Google
