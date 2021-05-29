@@ -22,7 +22,7 @@ public class D05_AddBinary
 
     private static String AddBinary(String a,String b)
     {
-        int sum=0, carry=0;
+        int carry=0;
         //Create a stringBuilder to store all the values in the new added string which we have created
         StringBuilder sb=new StringBuilder();
         /*Assign two pointer both should start from the end of the string;Basically performing the
@@ -30,7 +30,7 @@ public class D05_AddBinary
         int i=a.length()-1,j=b.length()-1;
 
         while(i>=0 || j>=0) {
-            sum=carry;
+            int sum=carry;
             if(i>=0) sum+=a.charAt(i)-'0';
             if(j>=0)  sum+=b.charAt(j)-'0';
             sb.append(sum%2);
@@ -43,5 +43,5 @@ public class D05_AddBinary
         return sb.toString();
     }
 
-    // Time complexity = O(n)           Space Complexity = O(ns)
+    // Time complexity = O(m+n)           Space Complexity = O(ns)
 }
