@@ -5,3 +5,4 @@
 3. Vacuum Cleaner Route-Amazon	
 4. CorrectCapitalization-Google
 5. Add Binary-Apple
+6. Longest Common Prefix-Microsoft
