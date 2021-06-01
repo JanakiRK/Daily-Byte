@@ -6,5 +6,5 @@
 4. CorrectCapitalization-Google
 5. Add Binary-Apple
 6. Longest Common Prefix-Microsoft
-7.Valid Palindrome with Removal-Facebook
+7. Valid Palindrome with Removal-Facebook
 8. Two Sum-Google
