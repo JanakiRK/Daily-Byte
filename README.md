@@ -8,3 +8,4 @@
 6. Longest Common Prefix-Microsoft
 7. Valid Palindrome with Removal-Facebook
 8. Two Sum-Google
+9. Jewels and Stones-Amazon
