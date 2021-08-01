@@ -31,4 +31,4 @@ public class D70_GaltonBoard
 }
 
 // Time complexity : O(n2)
-// Space complexity : O(1); because the table's size stays constant no matter how large nn is.
+// Space complexity : O(mxn); because the table's size stays constant no matter how large nn is.
